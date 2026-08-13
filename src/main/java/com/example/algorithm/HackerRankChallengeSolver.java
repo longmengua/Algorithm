@@ -57,7 +57,7 @@ public final class HackerRankChallengeSolver {
      * Complexity hint: Time O(n), extra space O(n).
      */
     public static int longestSubarraySumK(int[] nums, long k) {
-        throw new UnsupportedOperationException("TODO");
+
     }
 
     /**
